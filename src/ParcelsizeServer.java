@@ -6,3 +6,4 @@ public class ParcelsizeServer {
 			System.out.println("Juhu");
 
 }
+}
